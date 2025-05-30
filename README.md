@@ -34,8 +34,8 @@ Before you begin, ensure you have:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/naakaarafr/ai-travel-agent-simplified.git
-   cd ai-travel-agent-simplified
+   git clone https://github.com/naakaarafr/AI-Travel-Agent-Simplified.git
+   cd AI-Travel-Agent-Simplified
    ```
 
 2. **Install dependencies:**
