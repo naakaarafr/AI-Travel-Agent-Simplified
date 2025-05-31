@@ -104,7 +104,6 @@ AI-Travel-Agent-Simplified/
 ├── config.py         # Configuration to force Gemini usage
 ├── debug_api.py      # API diagnostic tool
 ├── .env              # Environment variables (create this)
-├── .env.example      # Example environment file
 └── README.md         # This file
 ```
 
